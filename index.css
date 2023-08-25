@@ -10,3 +10,13 @@ body {
 main {
   padding: 1pc;
 }
+#weather-data{
+  border: 1px solid white;
+  border-radius: 3px;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  gap: 1pc;
+}
